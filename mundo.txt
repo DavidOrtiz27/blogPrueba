@@ -1,1 +1,3 @@
 wenas este es mi primer curso de git y voy poco a poco
+
+soy chiquito
