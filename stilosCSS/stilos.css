@@ -19,7 +19,6 @@ body {
   font-size: 0.8em;
 }
 
-
 #container {
   width: 70%;
   padding: 0.2cm;
@@ -35,11 +34,19 @@ body {
   margin: 0%;
   padding: 0.5em;
   font-weight: bold;
+
   box-shadow: -5px 3px 20px -1px rgba(0, 0, 0, 0.81);
-  
 }
 #post {
   padding: 0.5em;
   background-color: aliceblue;
   box-shadow: -5px 3px 20px -1px rgba(0, 0, 0, 0.81);
+}
+footer {
+  width: 70%;
+  padding: 0cm 1cm;
+  text-align: center;
+  border: 1px solid;
+  margin: auto;
+  background-color: powderblue;
 }
