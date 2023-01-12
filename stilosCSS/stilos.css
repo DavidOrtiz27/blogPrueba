@@ -1,19 +1,14 @@
-
-body
-{
-    color: black;
-    text-align: center;
-    font-family: cursive;
+body {
+  color: black;
+  text-align: center;
+  font-family: cursive;
 }
 
-
-
-#cabecera #tagline{
-    margin:  0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
+#cabecera #tagline {
+  margin: 0 0 0 1em;
+  font-weight: normal;
+  font-size: 0.8em;
 }
-
 
 #container {
   width: 70%;
@@ -24,16 +19,24 @@ body
 }
 
 #cabecera {
-    background: #33a;
-    color: white;
-    margin: 0%;
-    padding: 0.5em;
-    font-weight: bold;
-  
-    box-shadow: -5px 3px 20px -1px rgba(0, 0, 0, 0.81);
-    -moz-box-shadow: -5px 3px 20px -1px rgba(0, 0, 0, 0.81);
-    box-shadow: -5px 3px 20px -1px rgba(0, 0, 0, 0.81);
-  }
+  background: #33a;
+  color: white;
+  margin: 0%;
+  padding: 0.5em;
+  font-weight: bold;
+
+  box-shadow: -5px 3px 20px -1px rgba(0, 0, 0, 0.81);
+  -moz-box-shadow: -5px 3px 20px -1px rgba(0, 0, 0, 0.81);
+  box-shadow: -5px 3px 20px -1px rgba(0, 0, 0, 0.81);
+}
 #post {
   padding: 1em;
+}
+footer {
+  width: 70%;
+  padding: 0cm 1cm;
+  text-align: center;
+  border: 1px solid ;
+  margin: auto;
+  background-color: powderblue;
 }
